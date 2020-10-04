@@ -1,7 +1,7 @@
 <h1 align="center">Super Calculadora</h1>
 
 ## Descrição do Projeto
-<p text-align="justify">Implementação de uma calculadora realizar diversos cálculos através de dois números definidos pelo usuário.</p>
+<p text-align="justify">Implementação de uma calculadora que realiza diversos cálculos através de dois números definidos pelo usuário.</p>
 
 ## Tabela de conteúdos
    * [Sobre](#Descrição-do-Projeto)
